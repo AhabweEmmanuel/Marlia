@@ -1,2 +1,2 @@
 # Marlia
-Repo for Marlia Messenger
+Repo for Marlia Messenger for Android
